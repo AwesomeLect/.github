@@ -1,0 +1,19 @@
+{
+  "name": ".github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hong Shu-man <hongshuman@outlook.com> (https://awesome.github.io)",
+  "license": "MIT",
+  "packageManager": "pnpm@10.11.0",
+  "dependencies": {
+    "astro": "^5.8.0"
+  }
+}
