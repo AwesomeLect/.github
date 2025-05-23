@@ -12,7 +12,6 @@
   "keywords": [],
   "author": "Hong Shu-man <hongshuman@outlook.com> (https://awesome.github.io)",
   "license": "MIT",
-  "packageManager": "pnpm@10.11.0",
   "dependencies": {
     "astro": "^5.8.0"
   }
